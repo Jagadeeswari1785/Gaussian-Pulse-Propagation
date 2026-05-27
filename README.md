@@ -40,6 +40,9 @@ If a Gaussian pulse is input to a linear system with a Gaussian impulse response
 **Required Calculations:**
 <img width="1548" height="298" alt="image" src="https://github.com/user-attachments/assets/b2fb676a-afb0-48ef-914b-309b2ea38a17" />
 
+<img width="568" height="719" alt="image" src="https://github.com/user-attachments/assets/ffe8ee81-1cde-4ded-a8c8-6a20a157f62e" />
+
+
 
 ## Layout
 Place and connect the following components:
@@ -55,6 +58,7 @@ Place and connect the following components:
 - Use the visualizer displays to measure:  
   - FWHM width of input and output pulses  
   - FWHM width of optical spectra  
+<img width="1580" height="825" alt="image" src="https://github.com/user-attachments/assets/439f66ce-5d52-4480-adfe-04ac60471a8c" />
 
 ---
 
